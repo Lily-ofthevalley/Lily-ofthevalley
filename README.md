@@ -1,4 +1,5 @@
-# 💫 About Me:
+#👋 Hi, I'm Lilith
+### 💫 About Me:
 👩‍💻Software development student<br>💻{CURRENT PROJECT}<br>💭Currently learning: Typescript, React and Bootstrap
 
 
