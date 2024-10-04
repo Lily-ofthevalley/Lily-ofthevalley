@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Lilith
+# 👋 Hi, I'm Lilith
 👩‍💻Software development student<br>💻{CURRENT PROJECT}<br>💭Currently learning: Typescript, React and Bootstrap
 
 
