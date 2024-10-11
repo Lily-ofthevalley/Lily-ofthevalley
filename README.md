@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lilith
-👩‍💻I am a student software development<br>💻I am currently working on [PROJECT]<br>💭Currently learning: Typescript, React and Bootstrap
+👩‍💻I am a student software development<br>💻I am currently working on a game discovery website<br>💭Currently learning: Typescript, React and Bootstrap
 
 
 # 💻 Tech Stack:
