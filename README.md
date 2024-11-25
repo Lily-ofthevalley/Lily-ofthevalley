@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lilith
-👩‍💻I am a student software development<br>💻I am currently working on a wifi qr sign generator<br>💭Currently learning: Python, Typescript, React and Bootstrap
+👩‍💻I am a student software development<br>💻I am currently working on a wifi qr sign generator<br>💭Currently learning: Django
 
 
 # 💻 Tech Stack:
