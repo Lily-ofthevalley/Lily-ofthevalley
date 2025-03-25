@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lilith
-👩‍💻I am a Full-Stack software development<br>💻I am currently working on a wifi qr sign generator and several projects at my job<br>💭Currently learning: Python and C#<br>(P.S. most of my commits have been done in private repos from my job :) )
+👩‍💻I am a Full-Stack software development<br>💻I am currently working on a wifi qr sign generator and several projects at my job<br>💭Currently learning: C#<br>(P.S. most of my commits have been done in private repos from my job :) )
 
 
 # 💻 Tech Stack:
